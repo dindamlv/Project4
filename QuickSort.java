@@ -1,5 +1,3 @@
-package quicksort;
-
 public class QuickSort {
  static void quickSort (int a[], int lo, int hi){
     //  lo adalah index bawah, hi adalah index atas
